@@ -7,7 +7,7 @@
     android:layout_height="wrap_content"
     android:layout_centerVertical="true"
     android:layout_centerHorizontal="true"
-    android:paddingTop="@dimen/space.small"
-    android:paddingBottom="@dimen/space.small"
+    android:paddingTop="@dimen/toggleswitch.space.small"
+    android:paddingBottom="@dimen/toggleswitch.space.small"
     android:textSize="16sp"
     tools:text="Prova" />
